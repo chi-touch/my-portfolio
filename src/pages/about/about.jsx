@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./index.module.css";
-import CV from "../../../../my-portfolio/src/assets/Glory Cv.pdf"
+// import CV from "../../../../my-portfolio/src/assets/Glory Cv.pdf"
+import CV from "../../assets/Glory Cv.pdf"
 import Info from "./info";
 
 
