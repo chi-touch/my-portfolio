@@ -61,7 +61,7 @@
 
 }
 .home__img{
-    background-image: url('../../../../my-portfolio/src/assets/pic.jpg');
+    background-image: url('../../assets/pic.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
